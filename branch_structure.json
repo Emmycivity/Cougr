@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "davesshawn-pr-test",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "davesshawn-pr-test": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "davesshawn-pr-test",
+    "origin"
+  ]
+}
